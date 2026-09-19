@@ -4,213 +4,161 @@
 
 ## 1. Scope
 
-These Terms of Use apply to the personal, non-commercial software applications listed under **Covered Applications** below.
+These Terms of Use apply to personal, non-commercial restricted applications operated by the Operator that explicitly reference this document in their registration, configuration or user interface.
 
-The applications are operated solely for private use by their operator. They are not offered as public or commercial services.
+The Covered Applications are operated solely for private use. They are not offered as public or commercial services.
 
 ## 2. Operator
 
-The applications are operated by:
+The Covered Applications are operated by:
 
-**Name:** Bryan Brandt
-**Email:** privacy@bryanbrandt.com
+**Name:** Bryan Brandt  
+**Email:** privacy@bryanbrandt.com  
 **Country:** Belgium
 
-## 3. Covered Applications
+## 3. Personal Restricted Use
 
-These Terms currently cover:
-
-- **Hermes Finance** — a read-only personal finance application that retrieves, stores and analyses the operator’s own account information through Enable Banking.
-- **[ADDITIONAL APPLICATION NAME]** — [SHORT DESCRIPTION].
-
-An application is covered only when explicitly listed above.
-
-## 4. Personal Restricted Use
-
-Covered Applications may use production integrations where real data is required. Such use remains restricted and private.
+Covered Applications may use production integrations where access to real services or information is required. Such use remains restricted and private.
 
 Covered Applications:
 
-- Are used solely by their operator
+- Are used exclusively by the Operator
 - Are not made available to the public
 - Are not used to provide commercial services
-- May access only accounts or resources owned by or explicitly authorised for the operator
-- Must comply with the terms of connected service providers
-- Must not be used to process third-party data without proper authority
+- Access only information or resources owned by, or explicitly authorised for, the Operator
+- Must comply with the terms of Connected Services
+- Must not process third-party information without proper authority
 
-Each external production application, consent and linked account remains subject to separate registration or authorisation requirements imposed by the relevant provider.
+Each external application registration, authorisation and connected resource remains subject to the requirements imposed by the relevant provider.
 
-## 5. Functionality
+## 4. Functionality
 
 Depending on the application, functionality may include:
 
-- Retrieving account information
-- Retrieving and storing balances
-- Retrieving and normalising transactions
-- Synchronising authorised information
-- Searching locally stored information
-- Producing personal reports and summaries
-- Performing technical evaluation of integrations
+- Retrieving information explicitly authorised by the Operator
+- Organising, storing and synchronising that information
+- Searching locally controlled information
+- Producing private reports and summaries
+- Evaluating authorised integrations for personal use
 
-Unless explicitly stated otherwise, Covered Applications are read-only.
+Unless explicitly documented otherwise, Covered Applications are read-only.
 
-They do not:
+They do not store passwords or authentication codes and do not make decisions on behalf of the Operator.
 
-- Initiate payments
-- Execute transfers
-- Modify bank records
-- Store banking passwords or authentication codes
-- Make financial decisions on behalf of the operator
+## 5. External Services
 
-## 6. External Services
+Covered Applications may depend on authorised data sources, integration providers, infrastructure services or documentation-hosting services.
 
-Covered Applications may depend on external providers, including:
+Use of an external service is also governed by that provider’s terms and privacy notice. The Operator is responsible for reviewing and complying with those requirements.
 
-- Enable Banking
-- Revolut or another financial institution
-- Authentication and network providers
-- Source-code or documentation hosting services
+## 6. Authorisation and Consent
 
-The use of external services is also governed by the terms and privacy notices of those providers.
+Access to a Connected Service requires the Operator to complete any applicable authorisation or consent process.
 
-The operator is responsible for reviewing and complying with those terms.
+The Operator is responsible for:
 
-## 7. Authorisation and Consent
-
-Access to an external account or service requires the operator to complete the relevant authorisation process.
-
-The operator is responsible for:
-
-- Connecting only accounts or resources they are authorised to access
-- Protecting private keys, credentials and devices
-- Reviewing active consents
+- Connecting only information or resources they are authorised to access
+- Protecting credentials, devices and authorisation material
+- Reviewing active authorisations
 - Revoking access that is no longer required
-- Maintaining accurate application registration information
-- Complying with usage restrictions imposed by external providers
+- Maintaining accurate registration information
+- Complying with restrictions imposed by Connected Services
 
-Authentication credentials, PINs, passcodes and multi-factor authentication codes must not be stored directly in a Covered Application.
+Passwords, PINs, passcodes and multi-factor authentication codes must not be stored directly in a Covered Application.
 
-## 8. Accuracy of Information
+## 7. Accuracy of Information
 
-Covered Applications process information supplied by external providers.
+Covered Applications process information supplied by Connected Services.
 
 No guarantee is made that:
 
-- Information is complete or current
-- All accounts or transactions are available
-- Balances update immediately
-- Transaction descriptions are accurate or consistent
-- External APIs remain continuously available
-- Categorisations or summaries are error-free
+- Information is complete, current or error-free
+- All authorised information remains continuously available
+- External interfaces remain compatible or available
+- Generated summaries or classifications are accurate
 
-In case of a discrepancy, the official information provided directly by the relevant institution takes precedence.
+In case of a discrepancy, information provided directly by the relevant authoritative source takes precedence.
 
-## 9. No Professional Advice
+## 8. No Professional Advice
 
-Information produced by a Covered Application is for personal informational purposes only.
+Information produced by a Covered Application is for private informational purposes only.
 
-It does not constitute:
+It does not constitute financial, investment, tax, legal, accounting or other professional advice. Decisions should not be based solely on information generated by a Covered Application.
 
-- Financial advice
-- Investment advice
-- Tax advice
-- Legal advice
-- Accounting advice
-- Credit assessment
-
-Decisions should not be based solely on information generated by a Covered Application.
-
-## 10. Availability
+## 9. Availability
 
 Covered Applications are provided on an “as is” and “as available” basis.
 
-Availability or functionality may be affected by:
-
-- Changes made by external providers
-- Expired or revoked consents
-- API outages or rate limits
-- Network failures
-- Changes to PSD2 or Open Banking integrations
-- Local configuration errors
-- Software updates
-- Provider restrictions or termination of service
+Availability or functionality may be affected by changes to Connected Services, expired or revoked authorisations, outages, rate limits, network failures, local configuration, software updates or provider restrictions.
 
 Continuous or permanent availability is not guaranteed.
 
-## 11. Security Responsibilities
+## 10. Security Responsibilities
 
-The operator is responsible for:
+The Operator is responsible for:
 
 - Securing devices and operating systems
-- Protecting private keys and configuration files
-- Maintaining appropriate file permissions
+- Protecting credentials and authorisation material
+- Maintaining appropriate access controls
 - Installing relevant security updates
-- Securing local backups
-- Preventing credentials and financial data from entering public repositories
-- Revoking compromised consents or credentials
+- Securing backups
+- Preventing sensitive information from entering public repositories
+- Revoking compromised authorisations or credentials
 
-Suspected compromise should be addressed by revoking affected consents, replacing credentials and reviewing local systems.
+Suspected compromise should be addressed by revoking affected access, replacing relevant credentials and reviewing the affected systems.
 
-## 12. Prohibited Use
+## 11. Prohibited Use
 
 Covered Applications must not be used for:
 
-- Accessing accounts without authorisation
+- Accessing information or resources without authorisation
 - Fraud, deception or unlawful surveillance
 - Circumventing authentication or security controls
 - Selling or commercially exploiting personal data
 - Providing unapproved services to third parties
 - Violating provider terms or applicable law
-- Initiating payments unless separately documented, authorised and secured
-- Processing materially different data without updating the applicable privacy notice
+- Performing unauthorised write operations
+- Processing materially different information without updating the applicable privacy notice
 
-## 13. Data Removal and Termination
+## 12. Data Removal and Termination
 
 Use of a Covered Application may be discontinued at any time by:
 
-- Revoking active consents
-- Removing linked accounts
+- Revoking active authorisations
+- Disconnecting external resources
 - Deleting application credentials
-- Deleting locally stored application data
+- Deleting locally controlled application data
 - Uninstalling or ceasing to use the application
 
-Deleting local information does not automatically revoke an external consent. Consents must be revoked separately through the relevant provider or institution.
+Deleting locally controlled information does not automatically revoke external authorisations. Those authorisations must be revoked separately through the relevant provider.
 
-## 14. Limitation of Liability
+## 13. Limitation of Liability
 
-To the extent permitted by law, the operator is not liable for loss arising from:
+To the extent permitted by law, the Operator is not liable for loss arising from:
 
-- Incorrect, incomplete or delayed external data
+- Incorrect, incomplete or delayed external information
 - Outages or changes in third-party services
 - Expired or revoked authorisations
 - Local configuration errors
-- Loss or corruption of local data
+- Loss or corruption of locally controlled data
 - Decisions based on generated information
 - Unauthorised access caused by insufficient device or credential security
 
 Nothing in these Terms excludes or limits liability where exclusion or limitation is prohibited by mandatory law.
 
-## 15. Changes
+## 14. Changes
 
-These Terms may be updated when:
-
-- A Covered Application is added or removed
-- Application functionality changes
-- New external providers are introduced
-- Access is extended to additional users
-- Cloud storage or external processing is introduced
-- Payment or write functionality is added
-- Applicable provider requirements change
+These Terms may be updated when the scope, functionality, Connected Services or applicable requirements materially change.
 
 The date at the top indicates the latest revision.
 
-## 16. Governing Law
+## 15. Governing Law
 
 These Terms are governed by Belgian law, subject to any mandatory legal provisions that apply.
 
 Any dispute is subject to the jurisdiction of the competent Belgian courts.
 
-## 17. Contact
+## 16. Contact
 
 Questions concerning these Terms may be sent to:
 
